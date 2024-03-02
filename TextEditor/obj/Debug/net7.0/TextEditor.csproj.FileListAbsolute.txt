@@ -1,0 +1,14 @@
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/bin/Debug/net7.0/TextEditor
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/bin/Debug/net7.0/TextEditor.deps.json
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/bin/Debug/net7.0/TextEditor.runtimeconfig.json
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/bin/Debug/net7.0/TextEditor.dll
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/bin/Debug/net7.0/TextEditor.pdb
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfoInputs.cache
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfo.cs
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.dll
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/obj/Debug/net7.0/refint/TextEditor.dll
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.pdb
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.genruntimeconfig.cache
+/home/ricardo/Área de Trabalho/dev/TextEditor/TextEditor/obj/Debug/net7.0/ref/TextEditor.dll
